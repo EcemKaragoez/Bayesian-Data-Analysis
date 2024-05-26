@@ -1,6 +1,5 @@
 #Introduction to Bayesian Data Analysis - Assignment 1
 #Ecem Nur Karagöz 
-#Matrikel Nr. : 03780131
 
 # load packages here
 library(dplyr)
